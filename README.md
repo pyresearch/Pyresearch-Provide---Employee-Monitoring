@@ -47,3 +47,7 @@ You can  simply use pip to install the latest version of pyresearch.
 <hr>
 
 
+[![Watch the video](https://github.com/pyresearch/Pyresearch-Provide---Employee-Monitoring/blob/main/Traffic%20Signal%20Control%20for%20Emergency%20Vehicles.png)](https://youtu.be/1swemkD-Ko4)
+
+
+
